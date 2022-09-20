@@ -1,0 +1,40 @@
+<head> 
+    <meta name="viewport" content="with-device-width, initial-scale = 1.0">
+    <title> Racial Discrimination in Healthcare  </title>
+    <link rel = 'stylesheet' href="style.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel = "stylesheet" href ="style.css"
+<link href="https://fonts.gstatic.com" crossorigin  rel="preconnect" >
+<link href="https://fonts.googleapis.com/css2?family=Noto+Sans:wght@300;500&display=swap" rel="stylesheet">
+</head>
+<section class="header">
+    <nav>
+        <div class="nav-links">
+            <ul>
+                <li> <a href="HACKATHON.html">HOME</a> </li>
+                <li> <a href="hackathon facts.html">FACTS</a></li>
+                <li> <a href="hackathon resources.html">REFRENCES</a></li>
+            </ul>
+        </div>
+    </nav>
+
+<section class="Resources">
+    <h1> Resources Used </h1>
+    
+    <div class="row">
+        <div class="resources-col">
+            <div class="bulletlist">
+                <ul style="list-style-type: style type disc;">
+                    <li>US Department of Health and Human Services . “Centers for Disease Control and Prevention.” Health, United States, 2015: With Special Feature on Racial and Ethnic Health Disparities, 2015, https://www.cdc.gov/nchs/data/hus/hus15.pdf</li>
+                    <li>H Todd, C Deaton, AP D’Adamo, L Goe, Ethnicity and analgesic practice. Ann Emerg Med 35, 11–16 (2000)</li>
+                    <li>LJ Staton, et al., When race matters: Disagreement in pain perception between patients and their physicians in primary care. J Natl Med Assoc 99, 532–538 (2007).</li>
+                    <li>Hoffman, Kelly M., et al. “Racial Bias in Pain Assessment and Treatment Recommendations, and False Beliefs about Biological Differences between Blacks and Whites.” Proceedings of the National Academy of Sciences, vol. 113, no. 16, 2016, pp. 4296–4301., https://doi.org/10.1073/pnas.1516047113.</li>
+                    <li>Zhang, Xingyu, et al. “Racial and Ethnic Disparities in Emergency Department Care and Health Outcomes Among Children in the United States.” Frontiers in Pediatrics, vol. 7, 2019, https://doi.org/10.3389/fped.2019.00525.</li>
+                    <li>Howell, Elizabeth A. “Reducing Disparities in Severe Maternal Morbidity and Mortality.” Clinical obstetrics and gynecology vol. 61,2 (2018): 387-399. doi:10.1097/GRF.0000000000000349</li>
+                    <li>Rees, Mathieu. “Racism in Healthcare: Statistics and Examples.” Medical News Today, MediLexicon International, 16 Sept. 2020, https://www.medicalnewstoday.com/articles/racism-in-healthcare.</li>
+                </ul> 
+            </div> 
+        </div>
+    </div>
+</section>
+</section>
