@@ -1,0 +1,60 @@
+<head> 
+    <meta name="viewport" content="with-device-width, initial-scale = 1.0">
+    <title> Racial Discrimination in Healthcare  </title>
+    <link rel = 'stylesheet' href="style.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel = "stylesheet" href ="style.css"
+<link href="https://fonts.gstatic.com" crossorigin  rel="preconnect" >
+<link href="https://fonts.googleapis.com/css2?family=Noto+Sans:wght@300;500&display=swap" rel="stylesheet">
+</head>
+<section class="header">
+    <nav>
+        <div class="nav-links">
+            <ul>
+                <li> <a href="HACKATHON.html">HOME</a> </li>
+                <li> <a href="hackathon facts.html">FACTS</a></li>
+                <li> <a href="hackathon resources.html">REFRENCES</a></li>
+            </ul>
+        </div>
+    </nav>
+<section class="facts">
+    <h1> Facts about Discrimination in Healthcare</h1>
+    <p> Many studies have shown that there is evidence of discrimination occuring within the Healthcare setting, it is extremely important to realize this and act upon it. Here are some fact that way give an idea on how it is like to get healthcare as a POC in the United States </p>
+    
+    <div class="row">
+        <div class="fact-col">
+            <h3> Insurance and Vaccines</h3>
+            <p> According to a piece the US Department of Health and Human Services published in 2015</p>
+            <div class="bulletlist">
+                <ul style="list-style-type: style type disc;">
+                    <li>From 1999 to June 2015, the proportion of uninsured adults in the 18–64 age group, had the highest rate of uninsured individuals in the Hispanic population (27.2% in the first half of 2015), and the lowest was among non-Hispanic white adults.</li>
+                    <li>In 2014, non-Hispanic Black adults had the lowest percentage of adults who had received an influenza vaccination (57.4%), while non-Hispanic Asian and White people had the greatest number (72.7%).</li>
+                </ul> 
+            </div>
+        </div>    
+    
+        <div class="fact-col">
+            <h3> Differences Percieved in Pain Tolerance</h3>
+            <div class="bulletlist">
+                <ul style="list-style-type: style type disc;">
+                    <li>According to a study conducted in 2000, Todd et al. (10) discovered that despite having equal self-reports of pain, black patients were considerably less likely than white patients to get analgesics for extremities fractures in the emergency room (57% vs. 74%).</li>
+                    <li>According to a study by Stato et al., patients were asked to report how much pain they were feeling and doctors were asked to rate how much pain they believed the patients were feeling. Compared to non-black patients (33.5%), doctors were more likely to underestimate the pain of black patients (47%) than of non-black patients.</li>
+                    <li>According to a 2016 study by Hoffman et al., many white medical students mistakenly think black individuals have a better pain tolerance than white people. 73% of all participants held at least one position</li>
+                </ul> 
+            </div>
+        </div> 
+    
+        <div class="fact-col">
+            <h3> Treatments : Emergancy Care, Pregnancy, and Mental Health</h3>
+            <div class="bulletlist">
+                <ul style="list-style-type: style type disc;">
+                    <li>According to an article published by Frontiers in Pediatrics by Zhang et al., doctors in emergency departments are less likely to categorize Black and Latinx children as needingemergency care than white or Asian children, or order more X-rays, CT scans, or blood tests for Black, Latinx, or Asian kids than for white kids </li>
+                    <li>According to a 2020 study, doctors admitted Black patients to hospitals 10% less frequently than white patients between 2005 and 2016. Additionally, data appears that Black persons had a 1.26 times higher mortality rate in hospitals and emergency rooms.</li>
+                    <li>A 2019 study by Howell, found that black women in the U.S. have a 3–4 times higher risk of dying from pregnancy-related reasons than white persons.</li>
+                    <li>According to an article in Medical News Today, Black men are four times more likely to be diagnosed with schizophrenia than white men. The MHA suggests this is because clinicians may overlook symptoms of depression and focus on symptoms of psychosis when treating black people.</li>
+                </ul>
+            </div>
+        </div>
+    </div>
+</section>
+</section> 
