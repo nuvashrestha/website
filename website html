@@ -1,0 +1,46 @@
+<html>
+<head> 
+    <meta name="viewport" content="with-device-width, initial-scale = 1.0">
+    <title> Racial Discrimination in Healthcare  </title>
+    <link rel = 'stylesheet' href="style.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel = "stylesheet" href ="style.css"
+<link href="https://fonts.gstatic.com" crossorigin  rel="preconnect" >
+<link href="https://fonts.googleapis.com/css2?family=Noto+Sans:wght@300;500&display=swap" rel="stylesheet">
+    
+</head>
+<style>
+    
+</style>
+<body>
+<section class="header">
+    <nav>
+        <div class="nav-links">
+            <ul>
+                <li> <a href="HACKATHON.html">HOME</a> </li>
+                <li> <a href="hackathon facts.html">FACTS</a></li>
+                <li> <a href="hackathon resources.html">REFRENCES</a></li>
+            </ul>
+        </div>
+    </nav>
+<div class= 'text-box'>
+    <h1> Racial Discrimination in Healthcare  </h1>
+    <p>
+        This is an informative website on the racial discriminatioins that occur in the Healthcare Industry here in the United States. We would like people to be aware of the struggles that may people of color go through in order to get basic needs and necessities. Our aim is also to provide resources and plans of action that can help lessen the ocuurance of harmful and deadly racist actions. 
+    </p>
+    <a href="" class="button"> NEED HELP? </a>
+</div>
+
+</section>
+
+<!---facts--->
+
+
+<!---resources--->
+
+
+    
+</body>
+
+
+</html>
